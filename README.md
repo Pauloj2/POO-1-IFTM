@@ -3,7 +3,7 @@
  
 ## Etapas Básicas de Programação Orientada a Objetos (POO)
 
-<img src="https://github.com/user-attachments/assets/df3c21c8-cefb-4e24-8ed7-36a13c00b257" align="right" width="250" height="250">
+<img src="https://github.com/user-attachments/assets/17e56b7c-6592-4ee2-8889-7441508f049a" align="right" width="250" height="250">
 
 _*1. Entender os Conceitos Fundamentais*_
 - [x] _Objetos_: Entender o que são objetos e como eles representam entidades do mundo real.
