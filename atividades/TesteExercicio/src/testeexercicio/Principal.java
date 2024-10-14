@@ -1,7 +1,8 @@
-package testeretangulo;
+package testeexercicio;
+
 /**
  *
- * @author rodri
+ * @author Paulo
  */
 public class Principal {
 
